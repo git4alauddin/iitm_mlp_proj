@@ -1,11 +1,11 @@
-# 🧠 Bank Marketing Prediction
+# Bank Marketing Prediction
 
 > A compact, end-to-end ML project to predict if a client subscribes to a term deposit.  
 > Focused on clean preprocessing, model comparison, and evaluation.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 | File | Description |
 |------|--------------|
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 1. **Data Cleaning & Imputation**
 2. **Feature Engineering** → `days_since_contact`, `balance_category`, `financial_risk`
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 Results
+## Results
 
 | Model | F1 | Accuracy | AUC |
 |:--|:--:|:--:|:--:|
@@ -38,17 +38,17 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 `Python` · `Pandas` · `Scikit-learn` · `XGBoost` · `Matplotlib`
 
 ---
 
-## 🎯 Outcome
+## Outcome
 
-✅ Built a reproducible ML pipeline  
-✅ Compared linear vs ensemble models  
-✅ Visualized metrics (ROC · PR · Confusion Matrix)
+· Built a reproducible ML pipeline  
+· Compared linear vs ensemble models  
+· Visualized metrics (ROC · PR · Confusion Matrix)
 
 ---
 
